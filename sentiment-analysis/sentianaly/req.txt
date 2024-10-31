@@ -1,0 +1,7 @@
+tensorflow
+keras
+numpy
+pandas 
+textblob
+django
+djangorestframework
